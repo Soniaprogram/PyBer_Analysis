@@ -24,6 +24,7 @@ Based on the multiple line chart I created indicating Total Fare by City Type (a
 ## Summary
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
 My 3 business recommendations to the CEO of PyBer, V. Isualize for addressing any disparities among the city types are as follows:
 - increase the number of total drivers in rural cities to improve access to ride-sharing services, which in turn might increase affordability as well and will incentivize more rides. This can help bridge the huge gap in total rides between rural and urban cities. 
 - Similarly, increasing the number of total drivers in suburban cities can also improve affordability in these cities and incentivize more rides to help bridge the gap between suburban and urban cities.
