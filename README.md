@@ -5,6 +5,7 @@
 Working as a data analyst for a Python based ride-sharing app company called PyBer, I will analyze and create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. Using Python, Pandas, Jupyter Notebook, and Matplotlib, I have created a summary DataFrame of the ride-sharing data by city type and a multiple-line graph that shows the total weekly fares for each city type. The purpose of this analysis is to summarize how the data differs by city type and how these differences can be used by decision-makers at PyBer.
 
 Deliverable 1: A ride-sharing summary DataFrame by city type
+
 Deliverable 2: A multiple-line chart of total fares for each city type
 
 ## Results
