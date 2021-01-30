@@ -12,7 +12,7 @@ Deliverable 2: A multiple-line chart of total fares for each city type
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-I created Series of data indicating the Total Rides, Total Drivers, Average Fare per Ride, and Average Fare per Driver by city type. I then created a PyBer Summary Dataframe containing this data (as seen below). 
+I created Series of data indicating the Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver by city type. I then created a PyBer Summary Dataframe containing this data (as seen below). 
 Based on the ride-sharing summary Dataframe by city type, it appears the urban cities, have the highest number of total rides, drivers, and fares with the rural cities having the lowest number of total rides, drivers, and fares. The rural cities, however, have the highest average fare per ride and per driver.
 
 ![deliverable1](https://github.com/Soniaprogram/PyBer_Analysis/blob/main/images/Deliverable1.PNG)
