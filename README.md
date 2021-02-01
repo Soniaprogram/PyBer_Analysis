@@ -9,8 +9,6 @@ Deliverable 1: A ride-sharing summary DataFrame by city type
 Deliverable 2: A multiple-line chart of total fares for each city type
 
 ## Results
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 I created Series of data indicating the Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver by city type. I then created a PyBer Summary Dataframe containing this data (as seen below). 
 Based on the ride-sharing summary Dataframe by city type, it appears the urban cities, have the highest number of total rides, drivers, and fares with the rural cities having the lowest number of total rides, drivers, and fares. The rural cities, however, have the highest average fare per ride and per driver.
@@ -29,8 +27,6 @@ Based on the multiple line chart I created indicating Total Fare by City Type (a
 ***Image 2: Total Fare by City Type Multiple Line Chart***
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 My 3 business recommendations to the CEO of PyBer, V. Isualize for addressing any disparities among the city types are as follows:
 - Increase the number of total drivers in rural cities to improve access to ride-sharing services, which in turn might increase affordability as well and will incentivize more rides. This can help bridge the huge gap in total rides between rural and urban cities. 
